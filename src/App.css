@@ -1,0 +1,22 @@
+*{
+font-size:119%;
+font-family:Comic Sans MS;
+}
+
+body{
+background-color:lightgreen;
+}
+
+.nav{
+background-color:black;
+}
+
+.nav a{
+color:white;
+text-decoration:none;
+padding:2%;
+}
+
+.nav a:hover{
+color:yellow;
+}
